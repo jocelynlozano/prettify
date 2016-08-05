@@ -1,0 +1,115 @@
+.navegador{
+  display: inline;
+  position: relative;
+  text-align:center; 
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.imagenfondo{
+	background-image: url(../images/background.jpg);
+	height: 500px;
+	background-repeat: no-repeat;
+	margin-top: 40px;
+	text-align: center;
+}
+.logo{
+  display: inline;
+  position: relative;
+  top: 70px;
+  left: 45%;
+  width: 6%; 
+  height: 6%;
+  text-align: center;
+}
+
+.centrar {
+	text-align: center;
+}
+
+h2 {
+	position: relative;
+	top: 80px;
+	width: 600%;
+	height: 100%;
+	text-align: center;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+h4 {
+	position: relative;
+	top: 90px;
+	width: 300%;
+	height: 100% ;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+	color: white;
+}
+
+.fondo2 {
+	background-image: url(../images/tile1.png);
+	height: 500px;
+	width: 1421px;
+}
+
+p {
+	text-align: center;
+	font-weight: bold;
+	color: #8F03E3;
+	font-size: 20px;
+	padding: 50px;
+}
+
+.foto {
+	height: 230px;
+	width: 230px;
+}
+
+.cuadrotexto {
+	border: 1px;
+	color: black;
+	font-size: 16px;
+	width: 400px;
+	height: 400px;
+	text-decoration: none;
+	/*como alineo el texto al lado? esta en un row con clase centrar*/
+}
+
+h3{
+	text-align: center;
+	font-weight: bold;
+	color: #8F03E3;
+	font-size: 20px;
+	padding: 20px;
+}
+
+h5 {
+	font-size: 14px;
+	color: #8F03E3;
+	text-align: center;
+}
+
+.circulo{
+	border: 
+    border-radius: 100px;
+    height: 200px;
+    width: 200px;
+    padding: 2px;
+}
+
+.fondo3 {
+	background-image: url(../images/tile2.png); 
+	height: 300px;
+	width: 1421px;
+}
+
+.icono {
+	height: 100px;
+	width: 100px;
+	padding: 20px;
+}
+
